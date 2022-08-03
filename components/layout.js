@@ -5,7 +5,7 @@ import utilStyles from "../styles/utils.module.css";
 import Link from "next/link";
 
 const name = "Austin";
-export const siteTitle = "Austin | Tech Pro in Austin, TX";
+export const siteTitle = "Austin | Software Engineer in Austin, TX";
 
 export default function Layout({ children, home }) {
   return (
@@ -14,7 +14,7 @@ export default function Layout({ children, home }) {
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="description"
-          content="Learn how to build a personal website using Next.js"
+          content="Austin | Software Engineer in Austin, TX"
         />
         <meta
           property="og:image"
@@ -30,13 +30,23 @@ export default function Layout({ children, home }) {
           <>
             <Image
               priority
-              src="/images/profile.jpg"
+              src="/images/profile_austin.jpg"
               className={utilStyles.borderCircle}
-              height={144}
-              width={144}
+              height={250}
+              width={250}
               alt={name}
             />
+
             <h1 className={utilStyles.heading2Xl}>{name}</h1>
+            <div className={utilStyles.socialIcon}>
+              <a href="https://twitter.com/austin_atx_">
+                <Image src="/images/twitter.svg" height={30} width={30} />
+              </a>
+
+              <a href="https://github.com/austinatx">
+                <Image src="/images/github.svg" height={30} width={30} />
+              </a>
+            </div>
           </>
         ) : (
           <>
@@ -44,7 +54,7 @@ export default function Layout({ children, home }) {
               <a>
                 <Image
                   priority
-                  src="/images/profile.jpg"
+                  src="/images/profile_austin.jpg"
                   className={utilStyles.borderCircle}
                   height={108}
                   width={108}
@@ -52,11 +62,6 @@ export default function Layout({ children, home }) {
                 />
               </a>
             </Link>
-            <h2 className={utilStyles.headingLg}>
-              <Link href="/">
-                <a className={utilStyles.colorInherit}>{name}</a>
-              </Link>
-            </h2>
           </>
         )}
       </header>
