@@ -13,16 +13,47 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
+        <h2>Hi - I'm Austin - a software engineer in Texas.</h2>
+        <h3>How I can help you -</h3>
         <p>
-          Hi - I'm Austin - a software developer in Texas. I enjoy studying
-          Mesoamerican history, artificial intelligence, and investing.
+          I can help you build software solutions to automate your business.
+          This automation generally includes -
+          <ul>
+            <li>
+              Using off the self SaaS tools to meet your more general needs.
+            </li>
+            <li>
+              Designing and coding customized apps where the off the shelf tools
+              aren't quite enough.
+            </li>
+            <li>
+              Building APIs to ensure that your key systems are securely
+              available for your customers.
+            </li>
+          </ul>
         </p>
+        <h3>What I'm looking for -</h3>
         <p>
-          In my free time, you can usually find me pursuing a fitness activity
-          or improving my Spanish.
+          I don't generally take on consulting or freelance work, but I'm always
+          looking to meet interesting people in the Austin, TX area. Presently,
+          I'm particularly interested in -
+          <ul>
+            <li>
+              Early stage startups solving hard problems for everyday people.
+            </li>
+            <li>
+              Podcasters, authors, and media creators working to enhance the
+              reach of independent thinking.
+            </li>
+            <li>
+              Volunteer and giving opportunities to be a better steward of my
+              time and resources.
+            </li>
+          </ul>
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
+        <h2>Some of my detailed thoughts - </h2>
         <ul className={utilStyles.list}>
           {allPostsData.map(({ id, date, title }) => (
             <li className={utilStyles.listItem} key={id}>
