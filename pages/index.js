@@ -51,6 +51,13 @@ export default function Home({ allPostsData }) {
             </li>
           </ul>
         </p>
+        <p>
+          The best way to get in touch with me is{" "}
+          <Link href={"https://twitter.com/austin_atx_"}>
+            via DM on Twitter
+          </Link>{" "}
+          - I look forward to hearing from you!
+        </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2>Some of my detailed thoughts - </h2>

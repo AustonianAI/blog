@@ -4,8 +4,8 @@ import styles from "./layout.module.css";
 import utilStyles from "../styles/utils.module.css";
 import Link from "next/link";
 
-const name = "Austin";
-export const siteTitle = "Austin | Software Engineer in Austin, TX";
+const name = "Austin Johnson";
+export const siteTitle = "Austin Johnson | ATX Software Engineer";
 
 export default function Layout({ children, home }) {
   return (
