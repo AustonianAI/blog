@@ -17,13 +17,13 @@ export default function Home({ allPostsData }) {
         <h3>How I can help you -</h3>
         <p>
           I can help you build software solutions to automate your business.
-          This automation generally includes -
+          This type of automation usually includes -
           <ul>
             <li>
-              Using off the self SaaS tools to meet your more general needs.
+              Using off-the-shelf SaaS tools to meet your more general needs.
             </li>
             <li>
-              Designing and coding customized apps where the off the shelf tools
+              Designing and coding customized apps where the off-the-shelf tools
               aren't quite enough.
             </li>
             <li>
