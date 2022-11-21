@@ -39,11 +39,11 @@ export default function Layout({ children, home }) {
 
             <h1 className={utilStyles.heading2Xl}>{name}</h1>
             <div className={utilStyles.socialIcon}>
-              <a href="https://twitter.com/austin_atx_">
+              <a href="https://twitter.com/AustinJohnsonTX">
                 <Image src="/images/twitter.svg" height={30} width={30} />
               </a>
 
-              <a href="https://github.com/austinatx">
+              <a href="https://github.com/AustinJohnsonTX">
                 <Image src="/images/github.svg" height={30} width={30} />
               </a>
             </div>

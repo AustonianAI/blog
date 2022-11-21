@@ -53,7 +53,7 @@ export default function Home({ allPostsData }) {
         </p>
         <p>
           The best way to get in touch with me is{" "}
-          <Link href={"https://twitter.com/austin_atx_"}>
+          <Link href={"https://twitter.com/AustinJohnsonTX"}>
             via DM on Twitter
           </Link>{" "}
           - I look forward to hearing from you!
