@@ -3,7 +3,7 @@ title: "The Difference Between Investing and Speculation"
 date: "2022-11-14"
 ---
 
-> TL;DR => If your strategy is to get paid for holding an asset, you are investing. If your strategy is to get paid for selling an asset, you are speculating.
+> TL;DR => If your strategy is to get paid for **_holding an asset_**, you are investing. If your strategy is to get paid for **_selling an asset_**, you are speculating.
 
 About three years ago, I find myself having turned a corner when it comes to investing for wealth creation and retirement. This corner is the threshold between speculating like a greedy young gambler, and investing like a competent man of sound mind. The questions I researched and studied became less about what is the next hot investment promising outsized returns, and more about the simple charge as to how a reasonable man invests his capital.
 

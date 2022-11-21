@@ -14,16 +14,27 @@ export default function Layout({ children, home }) {
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="description"
-          content="Austin | Software Engineer in Austin, TX"
+          content="Austin Johnson | Software Engineer in Austin, TX"
+          key="desc"
         />
         <meta
           property="og:image"
-          content={`https://og-image.vercel.app/${encodeURI(
-            siteTitle
-          )}.png?theme=light&md=0&fontSize=75px&images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fnextjs-black-logo.svg`}
+          content="https://pbs.twimg.com/profile_images/1554902209854410756/ysM-il1L_400x400.jpg"
         />
         <meta name="og:title" content={siteTitle} />
         <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:site" content="@AustinJohnsonTX" />
+        <meta name="twitter:creator" content="@AustinJohnsonTX" />
+        <meta name="twitter:title" content={siteTitle} />
+        <meta
+          name="twitter:image"
+          content="https://pbs.twimg.com/profile_images/1554902209854410756/ysM-il1L_400x400.jpg"
+        />
+        <meta name="twitter:image:alt" content="Austin Johnson is handsome" />
+        <meta
+          name="twitter:description"
+          content="Learn about who I am and how I can help you.  Read some of my detailed thoughts on investing, travel, and business."
+        />
       </Head>
       <header className={styles.header}>
         {home ? (
