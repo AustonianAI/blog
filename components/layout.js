@@ -28,7 +28,7 @@ export default function Layout({ children, home }) {
         <meta name="twitter:title" content={siteTitle} />
         <meta
           name="twitter:image"
-          content="https://pbs.twimg.com/profile_images/1554902209854410756/ysM-il1L_400x400.jpg"
+          content="https://images.unsplash.com/photo-1552749412-091909ed9f82?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
         />
         <meta name="twitter:image:alt" content="Austin Johnson is handsome" />
         <meta
