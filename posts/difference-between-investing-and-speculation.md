@@ -23,6 +23,8 @@ In a similar sense, we often mislabel assets we purchase as investments, when th
 
 ### What is an investment?
 
+![Investment Basics](/images/investments.png)
+
 An investment is an asset that creates future cash flow. An investment offers the potential for future cash flow in the form of profits to be paid to the asset owner. The future cash flows are derived from an operating characteristic of the investment. For example, when you own a simple restaurant, the restaurant operates and generating sales, and paying expenses to facilitate said sales. When the income is above the expenses, there is a profit, which can be paid to the owner of the restaurant. Restaurant ownership is an investment that creates the possibility of future cash flows for the asset owner.
 
 Note that the owner of the restaurant does not have to sell any of the ownership of the asset to realize this cash flow potential. The restaurant owner is not tasked with increasing the value of the restaurant and selling it to another owner to create cash flow. Simply by owning the asset (and experiencing profitable operating conditions), the owner receives an income from their investment.
@@ -30,6 +32,8 @@ Note that the owner of the restaurant does not have to sell any of the ownership
 The key to understanding what an investment asset is in contrast to a speculative asset is that the potential exists for the asset owner to derive future cash flow simply through their ownership. Examples of investments that fit this definition include bonds, money market instruments, certificates of deposit, real estate, and most (but not all) stock market equities.
 
 ### What is speculation?
+
+![Speculation Basics](/images/speculations.png)
 
 We learn a hard lesson when we purchase a speculative asset and mislabel it an investment. A speculative asset is a financial purchase made with the intention of selling the asset at a higher price without materially changing the valuation characteristics of the asset. For example, we can purchase assets such as gold. By purchasing this precious metal, we are hoping that the value increases due to favorable market conditions. Perhaps there is an inflation shock or geopolitical conflict that causes the demand for gold to rise, and we thereby see the price increase. Good for us - we can now sell our assets for a higher price. At no point during our gold ownership do we get paid simply for owning the metal, we must actually sell it to realize an income in the form of a capital gain. This is speculation - we’ve made a purchase with the belief that the asset will rise in value and we will be able to sell it for more than we paid.
 
@@ -40,6 +44,8 @@ Speculative investments are not inherently bad, but they must be purchased with 
 Where the lessons regarding speculation truly become costly to learn is when we engage in “greater fool” style speculation. This is when we make a purchase simply with the belief that a "greater fool than us" will come along and be willing to purchase our assets at a greater price than we paid. We simply hope that we are not the last ones to the party, that others will come behind us to validate our financial purchase. This is a speculation - and responsible for the most awesome and catastrophic asset bubbles in the history of human capital markets.
 
 ### Do "greater fool" style investments have a place in a reasonable man's portfolio?
+
+![Greater Fool Gambles](/images/greater_fool.png)
 
 Greater fool investments should be avoided by nearly every investor. While some speculative assets have value in a sophisticated portfolio as a way to achieve diversification or hedge specific risks, greater fool investments are nearly always a reckless gamble. Some examples of greater fool style investments include some of history’s most infamous bubbles including collectibles (Beanie Babies, sports trading cards, many types of art), high flying fad stocks throughout history such as canals, railroads, emerging markets, and tech, and the more modern bubbles that history has yet to pass a verdict on such as non-fungible tokens and cryptocurrencies. This is not to say that it is impossible to make money on greater fool style investments. Rather, I posit that the risk is not worth the reward. In almost every case, one simply does not get paid enough for the risk they are undertaking to warrant engaging in highly speculative asset purchases.
 
