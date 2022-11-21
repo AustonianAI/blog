@@ -22,7 +22,7 @@ export default function Layout({ children, home }) {
           content="https://pbs.twimg.com/profile_images/1554902209854410756/ysM-il1L_400x400.jpg"
         />
         <meta name="og:title" content={siteTitle} />
-        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:card" content="summary" />
         <meta name="twitter:site" content="@AustinJohnsonTX" />
         <meta name="twitter:creator" content="@AustinJohnsonTX" />
         <meta name="twitter:title" content={siteTitle} />
