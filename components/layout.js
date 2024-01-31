@@ -23,8 +23,8 @@ export default function Layout({ children, home }) {
         />
         <meta name="og:title" content={siteTitle} />
         <meta name="twitter:card" content="summary" />
-        <meta name="twitter:site" content="@AustonianTX" />
-        <meta name="twitter:creator" content="@AustonianTX" />
+        <meta name="twitter:site" content="@AustinAI" />
+        <meta name="twitter:creator" content="@AustinAI" />
         <meta name="twitter:title" content={siteTitle} />
         <meta
           name="twitter:image"
@@ -50,7 +50,7 @@ export default function Layout({ children, home }) {
 
             <h1 className={utilStyles.heading2Xl}>{name}</h1>
             <div className={utilStyles.socialIcon}>
-              <a href="https://twitter.com/AustonianAI">
+              <a href="https://twitter.com/AustinAI">
                 <Image src="/images/twitter.svg" height={30} width={30} />
               </a>
 
